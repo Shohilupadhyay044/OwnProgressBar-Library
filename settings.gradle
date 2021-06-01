@@ -1,0 +1,3 @@
+include ':MyProgressBarLibrary'
+include ':app'
+rootProject.name = "WorkManagerRevisionJava"
